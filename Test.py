@@ -1,2 +1,3 @@
-age = 15
-print(age)
+import random
+a = random.randint(0,6)
+print(a)
